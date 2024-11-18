@@ -2,7 +2,6 @@ from flask import Flask, request, jsonify, send_from_directory
 import cv2
 import numpy as np
 import tensorflow as tf
-
 # Load your CNN model
 model = tf.keras.models.load_model('constellation_model.h5')
 # Define constellation labels that the model recognizes
