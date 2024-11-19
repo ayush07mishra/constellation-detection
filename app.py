@@ -21,7 +21,6 @@ constellation_labels = [
     'ursa_major', 'ursa_minor', 'vela', 'virgo', 'volans', 'vulpecula'
 ]
   # Replace with actual constellation names
-
 def decode_prediction(prediction):
     max_index = np.argmax(prediction)
     constellation_name = constellation_labels[max_index]
