@@ -16,7 +16,6 @@ This project uses **machine learning** to identify constellations from images of
 
 
 
-
 ## Technologies Used
 - **Python**: Core programming language.
 - **TensorFlow/Keras**: For training the machine learning model.
