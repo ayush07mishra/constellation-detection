@@ -25,7 +25,6 @@ def decode_prediction(prediction):
     max_index = np.argmax(prediction)
     constellation_name = constellation_labels[max_index]
     return constellation_name
-
 app = Flask(__name__)
 
 @app.route('/')
