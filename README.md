@@ -13,9 +13,6 @@ This project uses **machine learning** to identify constellations from images of
 <img width="1470" alt="Screenshot 2024-11-15 at 11 13 59 AM" src="https://github.com/user-attachments/assets/ce9daa1f-3c3c-4909-aacd-840488d1636a">
 <img width="1470" alt="Screenshot 2024-11-15 at 11 15 44 AM" src="https://github.com/user-attachments/assets/cff6a06a-99d7-46c4-a38f-f5566ca109ed">
 
-
-
-
 ## Technologies Used
 - **Python**: Core programming language.
 - **TensorFlow/Keras**: For training the machine learning model.
