@@ -4,7 +4,7 @@ import numpy as np
 import tensorflow as tf
 # Load your CNN model
 model = tf.keras.models.load_model('constellation_model.h5')
-# Define constellation labels that the model recogniz
+# Define constellation labels that the model recognise
 constellation_labels = [
     'andromeda', 'antares', 'aquarius', 'aquila', 'aries', 'auriga', 'boötes',
     'caelum', 'camelopardalis', 'cancer', 'canes_venatici', 'canis_major',
