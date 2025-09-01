@@ -17,7 +17,6 @@ This project uses **machine learning** to identify constellations from images of
 - **TensorFlow/Keras**: For training the machine learning model.
 - **OpenCV**: For image processing.
 - **Streamlit**: For creating the web interface.
-
 - **NumPy & Matplotlib**: For data manipulation and visualization.
 - **Flask/Django** (Optional): For backend API.
 
