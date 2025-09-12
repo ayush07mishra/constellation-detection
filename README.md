@@ -1,7 +1,6 @@
 # Star Constellation Detection
 
 This project uses **machine learning** to identify constellations from images of stars. The system takes an image containing stars as input and predicts which constellation is formed by those stars.
-
 ## Features
 - **Image Input**: Upload an image containing stars or a constellation.
 - **Prediction**: The model identifies and classifies the constellation in the image.
